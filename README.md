@@ -1,5 +1,5 @@
 ### Hi there 👋, my name's João
-#### I am Software Developer
+#### I'm Software Developer
 ![I am Software Developer](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 I love a challenge and I'm always looking to learn and grow my skills! When I'm not coding, you can find me gaming & working out. Feel free to check out my projects and repositories on GitHub, and don't hesitate to reach out if you have any questions or collaboration opportunities!
