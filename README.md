@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi! I'm João 👋</h1>
-<h3 align="center">💻Software Developer💻</h3>
+<h1 align="center">Hi! I'm João 👋</h1>
+<h3 align="center">Software Developer💻</h3>
 
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/media/anime/2018/02/coding-animated-laptop-flow-stream.gif">
 
