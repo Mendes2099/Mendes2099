@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./assets/hero-laptop.png" alt="Hero image" width="300"/>
 </p>
-<h1 align="center">Hello guys <span>👋</span> João here! <span>🦄</span></h1>
+<h1 align="center">Hello guys <span>👋</span> João here! <span>🤖</span></h1>
 
 <p align="center">
   <!-- Interest badges -->
@@ -15,14 +15,14 @@
 
 ---
 
-- 👾 **Software Engineer focused in Automation**  
-- 🤖 **Integrations QA Engineer** at [SmartMed](https://github.com/orgs/SmartMed)  
+- 👾 **Software Developer currently focused on Frontend development**  
+- 🤖 **Former Intern** at [BOSCH](https://github.com/orgs/SmartMed)  
 - 📚 Backend Dev wannabe  
 - 💬 Ask me about software quality, test automation, and metacognition.  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your‐profile)  
-- 🎈 [The Teacher (ENFJ)](https://www.16personalities.com/enfj-personality)  
-- ⚡ Fun facts: My 1º graduation was Physiotherapy | I was a CrossFit coach once | I was a karate professional athlete for 10 years.  
-- 🎮 PC :: Marvelivals, Overwatch and League of Legends | Switch :: Just Dance and Ring Fit.  
+- 📫 How to reach me: [LinkedIn](https://pt.linkedin.com/in/jo%C3%A3ofilipemendes)  
+- 🎈 [The Logician (INTP)](https://www.16personalities.com/intp-personality)  
+- ⚡ Fun facts: I was previously a Phamerceutical Sciences student | MMA | Cooking | Gym.
+- 🎮 PC :: Marvelivals, Tunic | Legend of Zelda :: Hollow Knight.  
 
 ---
 
