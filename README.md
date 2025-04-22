@@ -16,7 +16,7 @@
 
 - 👾 **Software Developer currently focused on Frontend development**  
 - 🤖 **Former Intern** at [BOSCH](https://github.com/orgs/BOSCH)  
-- 💬 Ask me about software quality, test automation, and metacognition.  
+- 💬 Ask me about software quality...  
 - 📫 How to reach me: [LinkedIn](https://pt.linkedin.com/in/jo%C3%A3ofilipemendes)  
 - 🎈 [The Logician (INTP)](https://www.16personalities.com/intp-personality)  
 - ⚡ Fun facts: I was previously a Pharmaceutical Sciences student | MMA | Cooking | Gym.
@@ -32,7 +32,7 @@
 
 ### ⚙️ DevOps & Tools  
 <p>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white">
