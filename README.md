@@ -16,12 +16,12 @@
 ---
 
 - 👾 **Software Developer currently focused on Frontend development**  
-- 🤖 **Former Intern** at [BOSCH](https://github.com/orgs/SmartMed)  
+- 🤖 **Former Intern** at [BOSCH](https://github.com/orgs/BOSCH)  
 - 📚 Backend Dev wannabe  
 - 💬 Ask me about software quality, test automation, and metacognition.  
 - 📫 How to reach me: [LinkedIn](https://pt.linkedin.com/in/jo%C3%A3ofilipemendes)  
 - 🎈 [The Logician (INTP)](https://www.16personalities.com/intp-personality)  
-- ⚡ Fun facts: I was previously a Phamerceutical Sciences student | MMA | Cooking | Gym.
+- ⚡ Fun facts: I was previously a Pharmaceutical Sciences student | MMA | Cooking | Gym.
 - 🎮 PC :: Marvelivals, Tunic | Legend of Zelda :: Hollow Knight.  
 
 ---
