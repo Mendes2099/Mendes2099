@@ -31,11 +31,11 @@
 </p>
 
 ### ⚙️ DevOps & Tools  
-<p>
+<p>  
+  <img src="https://img.shields.io/badge/VSCode-gray?logo=visual-studio-code&logoColor=white" alt="VSCode badge">
   <img src="https://img.shields.io/badge/GitHub-gray?logo=github" alt="GitHub badge">
   <img src="https://img.shields.io/badge/Docker-gray?logo=docker&logoColor=blue" alt="Docker badge">
   <img src="https://img.shields.io/badge/Linux-gray?logo=linux" alt="Linux badge">
-  <img src="https://img.shields.io/badge/VSCode-gray?logo=visual-studio-code&logoColor=white" alt="VSCode badge">
   <img src="https://img.shields.io/badge/Postman-gray?logo=postman" alt="Postman badge">
 </p>
 
