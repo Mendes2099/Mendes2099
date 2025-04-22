@@ -20,23 +20,23 @@
 - 📫 How to reach me: [LinkedIn](https://pt.linkedin.com/in/jo%C3%A3ofilipemendes)  
 - 🎈 [The Logician (INTP)](https://www.16personalities.com/intp-personality)  
 - ⚡ Fun facts: I was previously a Pharmaceutical Sciences student | MMA | Cooking | Gym.
-- 🎮 PC :: Marvelivals, Tunic | Legend of Zelda :: Hollow Knight.  
+- 🎮 PC :: MarvelRivals, Tunic | Legend of Zelda :: Hollow Knight.  
 
 ---
 
 ### 💼 Currently Working With  
 <p>
-  <img src="https://img.shields.io/badge/Typescript-gray?logo=typescript">
-  <img src="https://img.shields.io/badge/Python-gray?logo=python">
+  <img src="https://img.shields.io/badge/TypeScript-gray?logo=typescript" alt="TypeScript badge">
+  <img src="https://img.shields.io/badge/Python-gray?logo=python" alt="Python badge">
 </p>
 
 ### ⚙️ DevOps & Tools  
 <p>
-  <img src="https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-gray?logo=github" alt="GitHub badge">
+  <img src="https://img.shields.io/badge/Docker-gray?logo=docker&logoColor=blue" alt="Docker badge">
+  <img src="https://img.shields.io/badge/Linux-gray?logo=linux" alt="Linux badge">
+  <img src="https://img.shields.io/badge/VSCode-gray?logo=visual-studio-code&logoColor=white" alt="VSCode badge">
+  <img src="https://img.shields.io/badge/Postman-gray?logo=postman" alt="Postman badge">
 </p>
 
 ---
