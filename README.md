@@ -26,8 +26,8 @@
 
 ### 💼 Currently Working With  
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-C21325?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-gray?logo=typescript">
+  <img src="https://img.shields.io/badge/Python-gray?logo=python">
 </p>
 
 ### ⚙️ DevOps & Tools  
