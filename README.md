@@ -1,7 +1,7 @@
 <!-- 👋 Hi, I’m João! -->
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/hero-laptop.png" alt="Hero image" width="300"/>
-</p>
+</p> -->
 <h1 align="center">Hello guys, <span>👋</span> João here! <span>🤖</span></h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧰 Currently Working With  
+### 💼 Currently Working With  
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white">
