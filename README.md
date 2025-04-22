@@ -17,7 +17,6 @@
 
 - 👾 **Software Developer currently focused on Frontend development**  
 - 🤖 **Former Intern** at [BOSCH](https://github.com/orgs/BOSCH)  
-- 📚 Backend Dev wannabe  
 - 💬 Ask me about software quality, test automation, and metacognition.  
 - 📫 How to reach me: [LinkedIn](https://pt.linkedin.com/in/jo%C3%A3ofilipemendes)  
 - 🎈 [The Logician (INTP)](https://www.16personalities.com/intp-personality)  
