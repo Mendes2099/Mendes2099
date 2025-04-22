@@ -6,11 +6,11 @@
 
 <p align="center">
   <!-- Interest badges -->
-  <img src="https://img.shields.io/badge/💜-Tests-9cf">
-  <img src="https://img.shields.io/badge/💜-Automation-9cf">
-  <img src="https://img.shields.io/badge/💜-Games-9cf">
-  <img src="https://img.shields.io/badge/💜-Music-9cf">
-  <img src="https://img.shields.io/badge/💜-BackEnd-9cf">
+  <img src="https://img.shields.io/badge/-Tests-9cf">
+  <img src="https://img.shields.io/badge/-Automation-9cf">
+  <img src="https://img.shields.io/badge/-Games-9cf">
+  <img src="https://img.shields.io/badge/-Music-9cf">
+  <img src="https://img.shields.io/badge/-BackEnd-9cf">
 </p>
 
 ---
