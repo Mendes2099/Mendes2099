@@ -49,4 +49,4 @@
 
 ## 🚀 Pinned Projects
 
-- [api_automation_project](https://github.com/hmfcpt/elf-ripper-extension/tree/main)  
+- [Elf Ripper VSCode Extension](https://github.com/hmfcpt/elf-ripper-extension/tree/main)  
