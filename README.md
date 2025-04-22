@@ -48,9 +48,5 @@
 ---
 
 ## 🚀 Pinned Projects
-<!-- GitHub will render this nice card UI automatically -->
-<!-- Just go to your profile → Customize your pins → select these repos -->
-- `api_automation_project`
-- `fullstack_sdet_project`
-- `petStore`
-- `typescriptStudy`
+
+- [api_automation_project](https://github.com/hmfcpt/elf-ripper-extension/tree/main)  
