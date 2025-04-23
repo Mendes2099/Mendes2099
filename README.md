@@ -1,46 +1,57 @@
-<!-- 👋 Hi, I’m João! -->
 <!-- <p align="center">
   <img src="./assets/hero-laptop.png" alt="Hero image" width="300"/>
 </p> -->
-<h1 align="center">Hello guys, João here! <span>🤖👋</span></h1>
 
-<p align="center">
-  <!-- Interest badges -->
-  <img src="https://img.shields.io/badge/🧪-Tests-9cf">
-  <img src="https://img.shields.io/badge/⚙️-Automation-9cf">
-  <img src="https://img.shields.io/badge/👾-Games-9cf">
-  <img src="https://img.shields.io/badge/🎵-Music-9cf">
-</p>
+- # Hi there, I'm Mendes2099! 👋
+
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to projects. Here's a little about me:
 
 ---
 
-- 👾 **Software Developer currently focused on Frontend development**  
-- 🤖 **Former Intern** at [BOSCH](https://github.com/orgs/BOSCH)  
-- 💬 Ask me about software quality...  
-- 📫 How to reach me: [LinkedIn](https://pt.linkedin.com/in/jo%C3%A3ofilipemendes)  
-- 🎈 [The Logician (INTP)](https://www.16personalities.com/intp-personality)  
+## 🌟 About Me
+
+- 🤖 **Former Intern** at [BOSCH](https://github.com/orgs/BOSCH)
+- 🔭 Currently working on exciting **Python projects**.
+- 🌱 Learning: Python, AI, DB , Web Development.
+- 💬 Ask me about React, Python.
+- 📫 How to reach me: **mendes19966@gmail.com**
 - ⚡ Fun facts: I was previously a Pharmaceutical Sciences student | MMA | Cooking | Gym.
-- 🎮 PC :: MarvelRivals, Tunic | Legend of Zelda :: Hollow Knight.  
 
 ---
 
-### 💼 Currently Working With  
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-gray?logo=typescript" alt="TypeScript badge">
-  <img src="https://img.shields.io/badge/Python-gray?logo=python" alt="Python badge">
+## 🚀 Skills & Technologies
+
+- **Languages:** </p>
+<img src="https://img.shields.io/badge/TypeScript-gray?logo=typescript" alt="TypeScript badge">
+<img src="https://img.shields.io/badge/Python-gray?logo=python" alt="Python badge">
 </p>
 
-### ⚙️ DevOps & Tools  
-<p>  
-  <img src="https://img.shields.io/badge/VSCode-gray?logo=visual-studio-code&logoColor=white" alt="VSCode badge">
+- **Frameworks & Tools:** Laravel, React, shadcn <p><img src="https://img.shields.io/badge/VSCode-gray?logo=visual-studio-code&logoColor=white" alt="VSCode badge">
   <img src="https://img.shields.io/badge/GitHub-gray?logo=github" alt="GitHub badge">
   <img src="https://img.shields.io/badge/Docker-gray?logo=docker&logoColor=blue" alt="Docker badge">
   <img src="https://img.shields.io/badge/Linux-gray?logo=linux" alt="Linux badge">
-  <img src="https://img.shields.io/badge/Postman-gray?logo=postman" alt="Postman badge">
-</p>
+  <img src="https://img.shields.io/badge/Postman-gray?logo=postman" alt="Postman badge"></p>
+- **Interests:** AI, Web Development.
+
+---
+
+## 📊 GitHub Stats
+
+![Mendes2099's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes2099&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+<!-- - [Website/Portfolio](https://your-website.com)-->
 
 ---
 
 ## 🚀 Pinned Projects
 
-- [Elf Ripper VSCode Extension](https://github.com/hmfcpt/elf-ripper-extension/tree/main)  
+- [Elf Ripper VSCode Extension](https://github.com/hmfcpt/elf-ripper-extension/tree/main)
+
+Feel free to explore my projects and connect with me. I'm always open to collaboration and learning opportunities!
+
+✨ Happy Coding! ✨
