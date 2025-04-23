@@ -2,7 +2,7 @@
   <img src="./assets/hero-laptop.png" alt="Hero image" width="300"/>
 </p> -->
 
-- # Hi there, I'm Mendes2099! 👋
+# Hi there, I'm Mendes2099! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to projects. Here's a little about me:
 
