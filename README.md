@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🌟 About Me
 
-- 🤖 **Former Intern** at [BOSCH](https://github.com/orgs/BOSCH)
+- 🤖 **Former Intern** at [**BOSCH**](https://github.com/orgs/BOSCH)
 - 🔭 Currently working on exciting **Python projects**.
 - 🌱 Learning: Python, AI, DB , Web Development.
 - 💬 Ask me about React, Python.
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🌐 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3ofilipemendes/)
 <!-- - [Website/Portfolio](https://your-website.com)-->
 
 ---
