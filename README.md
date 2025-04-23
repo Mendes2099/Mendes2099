@@ -4,7 +4,7 @@
 
 # Hi there, I'm Mendes2099! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to projects. Here's a little about me:
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to projects.
 
 ---
 
