@@ -2,7 +2,7 @@
 <!-- <p align="center">
   <img src="./assets/hero-laptop.png" alt="Hero image" width="300"/>
 </p> -->
-<h1 align="center">Hello guys, <span>👋</span> João here! <span>🤖</span></h1>
+<h1 align="center">Hello guys, João here! <span>🤖👋</span></h1>
 
 <p align="center">
   <!-- Interest badges -->
