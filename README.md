@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 🚀 Skills & Technologies
 
 - **Languages:** <p><img src="https://img.shields.io/badge/TypeScript-gray?logo=typescript" alt="TypeScript badge">
-<img src="https://img.shields.io/badge/Python-gray?logo=python" alt="Python badge"></p>
+  <img src="https://img.shields.io/badge/Python-gray?logo=python" alt="Python badge"></p>
 
 - **Frameworks & Tools:** Laravel, React, shadcn <p><img src="https://img.shields.io/badge/VSCode-gray?logo=visual-studio-code&logoColor=white" alt="VSCode badge">
   <img src="https://img.shields.io/badge/GitHub-gray?logo=github" alt="GitHub badge">
