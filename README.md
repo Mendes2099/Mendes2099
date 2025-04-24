@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="./assets/hero-laptop.png" alt="Hero image" width="300"/>
-</p> -->
+ <p align="center">
+  <img src="./github-header-image.png" alt="Hero image"/>
+</p>
 
 # Hi there, I'm Mendes2099! 👋
 
