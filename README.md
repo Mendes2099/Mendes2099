@@ -2,7 +2,7 @@
   <img src="./github-header-image.png" alt="Hero image"/>
 </p>
 
-# Hi there, I'm Mendes2099! 👋
+# Hi there, I'm João Mendes! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to projects.
 
