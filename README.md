@@ -1,14 +1,12 @@
+# Hey there, I'm João.👋
+
   <img src="./Mario.gif" alt="Mario animation" style="width: 100%;">
-
-# Hi there, I'm João! 👋
-
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to projects.
 
 ---
 
 ## 🌟 About Me
 
--
 - 🤖 **Former Intern** at [**BOSCH**](https://github.com/orgs/BOSCH)
 - 🔭 Currently working on exciting **Python projects**.
 - 🌱 Currently Learning: Python, AI, DB , Web Development.
