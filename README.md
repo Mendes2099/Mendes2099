@@ -10,6 +10,9 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🌟 About Me
 
+  <img src="./Mario.gif" alt="Mario animation" style="width: 100%;">
+
+-
 - 🤖 **Former Intern** at [**BOSCH**](https://github.com/orgs/BOSCH)
 - 🔭 Currently working on exciting **Python projects**.
 - 🌱 Currently Learning: Python, AI, DB , Web Development.
