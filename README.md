@@ -1,16 +1,12 @@
- <p align="center">
-  <img src="./github-header-image.png" alt="Hero image"/>
-</p>
+  <img src="./Mario.gif" alt="Mario animation" style="width: 100%;">
 
-# Hi there, I'm João Mendes! 👋
+# Hi there, I'm João! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to projects.
 
 ---
 
 ## 🌟 About Me
-
-  <img src="./Mario.gif" alt="Mario animation" style="width: 100%;">
 
 -
 - 🤖 **Former Intern** at [**BOSCH**](https://github.com/orgs/BOSCH)
@@ -36,12 +32,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-## 📊 GitHub Stats
-
-![Mendes2099's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendes2099&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3ofilipemendes/)
@@ -54,5 +44,13 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - [Elf Ripper VSCode Extension](https://github.com/hmfcpt/elf-ripper-extension/tree/main)
 
 Feel free to explore my projects and connect with me. I'm always open to collaboration and learning opportunities!
+
+ <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
+  </picture>
+</div>
 
 ✨ Happy Coding! ✨
