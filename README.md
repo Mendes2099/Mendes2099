@@ -1,7 +1,8 @@
 # Hey there, I'm João.👋
 
-  <img src="./Mario.gif" alt="Mario animation" style="width: 100%;">
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to projects.
+
+  <img src="./Mario.gif" alt="Mario animation" style="width: 100%;">
 
 ---
 
