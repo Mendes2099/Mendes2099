@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 - 🤖 **Former Intern** at [**BOSCH**](https://github.com/orgs/BOSCH)
 - 🔭 Currently working on exciting **Python projects**.
-- 🌱 Currently Learning: Python, AI, DB , Web Development.
+- 🌱 Currently Learning: Python, LLM's, DB , Web Development.
 - 💬 Ask me about: React, Python.
 - 📫 How to reach me: **mendes19966@gmail.com**
 - ⚡ Fun facts: I was previously a Pharmaceutical Sciences student | MMA | Cooking | Gym.
