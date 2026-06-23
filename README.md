@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 🚀 Pinned Projects
 
 - [Elf Ripper VSCode Extension](https://github.com/hmfcpt/elf-ripper-extension/tree/main)
-- [Tryevo] (https://www.tryevo.com.br/app/vagas/)
+- [Tryevo](https://www.tryevo.com.br/app/vagas/)
 
 Feel free to explore my projects and connect with me. I'm always open to collaboration and learning opportunities!
 
