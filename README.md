@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 🌟 About Me
 
 - 🤖 **Former Intern** at [**BOSCH**](https://github.com/orgs/BOSCH)
-- 🔭 Currently working on exciting HR platform called **TryEvo**.
+- 🔭 Currently working on an exciting HR platform called **TryEvo**.
 - 📫 How to reach me: **mendes19966@gmail.com**
 - ⚡ Fun facts: I was previously a Pharmaceutical Sciences student | MMA | Cooking | Gym.
 
