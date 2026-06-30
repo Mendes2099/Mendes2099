@@ -28,7 +28,7 @@ I served as the **Core Full-Stack Developer** and later as the **Tech Lead** for
 * **Frontend Experience:** Developed a highly responsive web interface focused on seamless state management, clean client-side routing, and optimal user workflows.
 
 #### 🔧 Tech Stack Focus
-`Google Cloud Run` • `Claue Code` •`Docker` • `Microservices Architecture` • `RESTful APIs` • `CI/CD Deployment`
+`Google Cloud Run` • `Claude Code` •`Docker` • `Microservices Architecture` • `RESTful APIs` • `CI/CD Deployment`
 
 ---
 
