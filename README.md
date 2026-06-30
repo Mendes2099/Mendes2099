@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 🌟 About Me
 
 - 🤖 **Former Intern** at [**BOSCH**](https://github.com/orgs/BOSCH)
-- 🔭 Currently working on an exciting HR platform called **TryEvo**.
+- 🔭 Currently working on an exciting HR platform called [TryEvo](https://landit-tryevo-web-806746762429.us-central1.run.app/app/vagas/)
 - 📫 How to reach me: **mendes19966@gmail.com**
 - ⚡ Fun facts: I was previously a Pharmaceutical Sciences student | MMA | Cooking | Gym.
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 🚀 Pinned Projects
 
 - [Elf Ripper VSCode Extension](https://github.com/hmfcpt/elf-ripper-extension/tree/main)
-- [Tryevo](https://landit-tryevo-web-806746762429.us-central1.run.app/app/vagas/)
+- [TryEvo](https://landit-tryevo-web-806746762429.us-central1.run.app/app/vagas/)
 
 Feel free to explore my projects and connect with me. I'm always open to collaboration and learning opportunities!
 
