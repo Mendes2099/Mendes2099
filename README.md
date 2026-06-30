@@ -15,17 +15,20 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-## 🚀 Skills & Technologies
+## 🛠️ Featured Production Project
 
-- **Languages:** <p><img src="https://img.shields.io/badge/TypeScript-gray?logo=typescript" alt="TypeScript badge">
-  <img src="https://img.shields.io/badge/Python-gray?logo=python" alt="Python badge"></p>
+### 💼 [Landit - Platforma de Vagas (Live Production)](https://landit-tryevo-web-806746762429.us-central1.run.app/app/vagas/)
+> **Note:** The source code for this project is hosted within a private corporate organization repository. The live, fully functional cloud deployment is linked above for evaluation.
 
-- **Frameworks & Tools:** Laravel, React, shadcn <p><img src="https://img.shields.io/badge/VSCode-gray?logo=visual-studio-code&logoColor=white" alt="VSCode badge">
-  <img src="https://img.shields.io/badge/GitHub-gray?logo=github" alt="GitHub badge">
-  <img src="https://img.shields.io/badge/Docker-gray?logo=docker&logoColor=blue" alt="Docker badge">
-  <img src="https://img.shields.io/badge/Linux-gray?logo=linux" alt="Linux badge">
-  <img src="https://img.shields.io/badge/Postman-gray?logo=postman" alt="Postman badge"></p>
-- **Interests:** AI, Web Development.
+I served as the **Core Full-Stack Developer** and later as the **Tech Lead** for this platform, driving the architecture from initial setup to cloud deployment. 
+
+#### 🏗️ Architecture & Engineering Highlights
+* **Cloud Infrastructure:** Containerized the entire application and orchestrated the deployment to **Google Cloud Run**, optimizing for high availability, low latency, and automated scaling.
+* **Backend Performance:** Designed efficient API data flows and structured system logic to handle fast, concurrent vacancy queries smoothly.
+* **Frontend Experience:** Developed a highly responsive web interface focused on seamless state management, clean client-side routing, and optimal user workflows.
+
+#### 🔧 Tech Stack Focus
+`Google Cloud Run` • `Claue Code` •`Docker` • `Microservices Architecture` • `RESTful APIs` • `CI/CD Deployment`
 
 ---
 
